@@ -1,1 +1,10 @@
+Few of list methods:
 
+    list.sort()
+    list.append(elem) -- This is a method we use to add a single element to the end of the list.
+    list.reverse()
+    list.insert(index, elem) -- This method used to inserts the element at the given index, shifting elements to the right.
+    list.pop(index)
+    list.index(elem)
+    list.remove(elem)
+    
