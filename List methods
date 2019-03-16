@@ -10,8 +10,7 @@ Few of list methods:
 
 Practical Example
 Let's say you have a list of Country
-
-Country  = ['Namibia', 'South Africa', 'Wales', 'Nigeria, 'Zimbabwe', 'Spain', 'Germany']
+Country  = ['Namibia', 'South Africa', 'Wales', 'Nigeria, 'Zimbabwe', 'Spain', 'Germany', 'New Zealand']
 
 #Lets append Australia to the list of countries 
 Country.append('Australia')        #Take note Australia is added to the end of the list of country
