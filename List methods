@@ -10,12 +10,8 @@ Few of list methods:
 
 Practical Example
 Let's say you have a list of Country
-<<<<<<< HEAD
-<<<<<<< HEAD
-Country  = ['Wale','Namibia','Angola', 'South Africa', 'Wales', 'Nigeria, 'Zimbabwe', 'Spain', 'Germany', 'New Zealand','Ghana']
-=======
-Country  = ['SA','India','Zambia','Namibia','Angola', 'South Africa', 'Wales', 'Nigeria, 'Zimbabwe', 'Spain', 'Germany', 'New Zealand','Ghana']
 
->>>>>>> try
+Country  = ['Singapore','SA','India','Zambia','Namibia','Angola', 'South Africa', 'Wales', 'Nigeria, 'Zimbabwe', 'Spain', 'Germany', 'New Zealand','Ghana']
+
 #Lets append Australia to the list of countries 
 Country.append('Australia')        #Take note Australia is added to the end of the list of country
