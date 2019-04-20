@@ -8,7 +8,7 @@ class Employee:
     def total(self):
         totals = self.num1 + self.num2
         if totals < 10:
-            return "Total is : ", totals , " and it is less than 10"
+            return "The total is : ", totals , " and it is less than 10"
         else:
             return self.num1 * self.num2
 
