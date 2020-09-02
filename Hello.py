@@ -4,6 +4,9 @@ Hello
 hello
 hello
 hello
+hello
+hello
+
 print("I am bored again")
 print("I am bored again")
 print("I am bored again")
