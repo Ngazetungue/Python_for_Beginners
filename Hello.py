@@ -6,6 +6,8 @@ print("I am bored again"
 hello
 hello
 hello
+helllo
+hello
 hello
 hello
 print("I am bored again")
