@@ -4,7 +4,7 @@ print("I am bored again")
 print("I am bored again"
      )
 hello
-h
+hello
 hello
 hello
 hello
