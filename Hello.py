@@ -5,42 +5,6 @@ print("I am bored again"
      )
 print("I am bored again")
 print("I am bored again")
-
-print("I am bored again")
-print("I am bored again")
-
-print("I am bored again")
-print("I am bored again")
-
-print("I am bored again")
-print("I am bored again")
-
-print("I am bored again")
-print("I am bored again")
-
-print("I am bored again")
-print("I am bored again")
-
-
-
-print("I am bored again")
-print("I am bored again")
-
-print("I am bored again")
-print("I am bored again")
-
-print("I am bored again")
-print("I am bored again")
-print("I am bored again")
-print("I am bored again")
-hello
-print("I am bored again")
-print(" print("I am bored again")
-")
-      hello
-      hello
-print(" again")
-      he;;p
 print(" again")
 print(" NOTHING Special here")
 print(" NOTHING Special here")
