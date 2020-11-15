@@ -9,6 +9,8 @@ print("I am bored again") hello
       hello
        hello
       hello
+      hello
+      hello
      
       hello
        hello
