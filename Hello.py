@@ -7,7 +7,9 @@ print("I am bored again")
 print("I am bored again") hellobored again") hello
    nt("I am bored again")
 
-print("I am bored again")
+print("I am bored again")bored again") hello
+      hello
+       hello
 print("I am bored again")
 print("I am bored agaibored again") hello
       hello
