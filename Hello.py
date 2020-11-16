@@ -4,7 +4,9 @@ print("I am bored again")
 print("I am bored again"
 print(" NOTHING Special here")
 print("I am bored again")
-print("I am bored again") hello
+print("I am bored again") hellobored again") hello
+      hello
+       hello
       hello
        hellobored again") hello
       hellobored again") hello
