@@ -6,7 +6,9 @@ print(" NOTHING Special here")
 print("I am bored again")
 print("I am bored again") hellobored again") hello
    nt("I am bored again")
-bored again") hello
+bored again") hellobored again") hello
+      hello
+       hello
       hello
        hello
 print("I am bored again")bored again") hello
