@@ -10,7 +10,9 @@ print("I am bored again") hello
       hello
        hello
        hello
-       hellobored again") hello
+       hellobobored again") hello
+      hello
+       hellored again") hello
       hello
        hello
       hello
