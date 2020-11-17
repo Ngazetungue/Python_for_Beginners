@@ -9,11 +9,3 @@ bored again") hello
        hello
 bored again") hello
       
-bored again") hello
-      hello
-       hello
-bored again") hello
-      hellobored again") hello
-      hello
-       hello
-       hello
