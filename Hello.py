@@ -4,26 +4,3 @@ print("I am bored again")
 print("I am bored again"
 print(" NOTHING Special here")
 print("I am bored again")
-
-bored again") hel
-bored again") hello
-bored again") hellolo
- 
-bored again") hello
-bored again") hello     
-bored again") hello
-bored again") hello
-bored again") hello
-bored again") hello
-bored again") hello
-
-bored again") hello
-bored again") hello
-bored again") hello
-bored again") hello
-bored again") hello
-bored again") hello
-bored again") hello
-bored again") hello
-bored again") hello
-bored again") hello
