@@ -7,17 +7,3 @@ print("I am bored again")
 print("I am bored again")
 print("I am bored again")
 
-print("I am bored again"
-print("I am bored again"
-print("I am bored again"
-print("I am bored again"
-print("I am bored again"
-print("I am bored again"
-print("I am bored again"
-print("I am bored again"
- 
-print("I am bored again"
-print("I am bored again"
-print("I am bored again"
-
-print("I am bored again"
