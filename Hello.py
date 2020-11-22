@@ -1,4 +1,6 @@
-
+print("I am bored again")
+print("I am bored again")
+print("I 
 print("I am bored again"
 print("I am bored again"
 print("I am bored again"
